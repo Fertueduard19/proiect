@@ -1,0 +1,42 @@
+header {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.logo {
+    max-width: 200px;
+    height: auto; 
+    margin: auto; 
+    display: block; 
+}
+
+.carousel-item img {
+    width: 100%; 
+    height: auto; 
+    max-height: 400px; 
+    object-fit: cover;
+}
+
+#videoclip{
+    background-color: rgb(0, 0, 0);
+    color: white; 
+    padding: 20px; 
+    margin-top: 20px;
+}
+
+.videoclip {
+    flex: 1;
+}
+
+#Videoclip {
+    padding: 40px;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-bottom: 20px; 
+}
